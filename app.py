@@ -67,7 +67,7 @@ def setup_retriever(vector_db):
     return chain
 
 # Streamlit app
-st.title("RAG System with Ollama")
+st.title("ChatPDF using Ollama-RAG")
 st.write("Upload a PDF document and ask a question based on its content.")
 
 uploaded_file = st.file_uploader("Choose a PDF file", type="pdf")
