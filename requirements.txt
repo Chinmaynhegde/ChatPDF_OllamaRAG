@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-community
+nomic-embed-text
+unstructured
+pypdf2
+mistral
+chromadb
