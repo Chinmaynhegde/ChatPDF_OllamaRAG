@@ -3,7 +3,6 @@ ollama
 langchain
 langchain-community
 langchain-text-splitters
-nomic-embed-text
 unstructured
 pypdf2
 mistral
